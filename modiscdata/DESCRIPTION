@@ -1,0 +1,10 @@
+Package: modiscdata
+Type: Package
+Title: Data files for modiscloud
+Version: 0.13
+Date: 2013-01-30
+Author: Nicholas J. Matzke, Dept. of Integrative Biology, U.C. Berkeley
+Maintainer: Nicholas J. Matzke <matzke@berkeley.edu>
+Description: This package contains data files for use in the examples in the modiscloud package.  The files are MODIS Level 2 Cloud Product files, downloaded from the NASA MODIS archive, or TIFs derived from them.
+License: GPL
+ByteCompile: true
